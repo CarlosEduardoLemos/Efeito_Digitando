@@ -9,7 +9,7 @@ Este é o README para o projeto Efeito ao Digitar, uma demonstração de um efei
 | :rocket: URL         | https://carloseduardolemos.github.io/Efeito_Digitando/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/SeuUsuario/projeto-efeito-digitar/main/imagens/efeito-digitar.gif#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/Efeito_Digitando/main/imagem/Captura%20de%20tela%202023-06-01%20220920.png#vitrinedev)
 
 ## Detalhes do projeto
 
