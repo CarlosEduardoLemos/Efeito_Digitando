@@ -1,6 +1,6 @@
 # Projeto Efeito ao Digitar
 
-Este é o README para o projeto Efeito ao Digitar, uma demonstração de um efeito interessante realizado com CSS que simula o texto sendo digitado.
+O projeto Efeito ao Digitar, é uma demonstração de um efeito interessante realizado com CSS que simula o texto sendo digitado.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
